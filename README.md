@@ -1,5 +1,5 @@
-# TunerAssignment
-TunerAssignment  -Selenium Automation
+# TurnerAssignment 
+TurnerAssignment   -Selenium Automation
 Pre-Requisites
 •	Python 
 •	Selenium 
