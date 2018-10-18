@@ -10,6 +10,16 @@ Instructions to run
 
 Sample test Case output
 
+Pre-Requisites
+•	Python 
+•	Selenium 
+•	Chrome driver
+Instructions to run 
+•	Clone the repo
+•	Go CMD and run “python testcase.py”
+
+Sample test Case output
+
 DevTools listening on ws://127.0.0.1:61478/devtools/browser/d3ed77ba-e739-4ee0-b9b8-c4ed7771c67f
 Hyperlink Text:To Have and Have Not (1944)
 Movie Details: TO HAVE AND HAVE NOT(1944)
@@ -51,5 +61,6 @@ Release Date :1949
 Ran 1 test in 34.984s
 
 OK
+
 
 
